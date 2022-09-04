@@ -1,4 +1,4 @@
-FLAGS = g++ -g -std=c++17 -Wall -Wextra #-Werror
+FLAGS = g++ -g -std=c++17 -Wall -Wextra -Werror
 DATA = "In 3DViewer application you can load 3d objects and view them"
 
 all: install test
